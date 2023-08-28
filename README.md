@@ -1,5 +1,6 @@
 # ActivityPlanner
 SpringBoot Application that uses PostgreSQL as database and helps in planning activites for passenger
+Source code added in - my_branch
 
 Following are the requirements handled in this application:
 
